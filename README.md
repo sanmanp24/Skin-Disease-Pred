@@ -29,3 +29,12 @@ GUI application for user-friendly predictions
 Documentation detailing methods, dataset characteristics, and usage instructions
 
 Ideal for: Researchers, clinicians, and developers interested in accessible, explainable AI solutions for dermatological diagnostics
+![image](https://github.com/user-attachments/assets/fc39065f-9e77-4bd3-b9a5-9b278c9d5ac0)
+![image](https://github.com/user-attachments/assets/1656dd1f-8489-434d-8d18-c4768e4172bc)
+![image](https://github.com/user-attachments/assets/2891162e-1ef0-4d52-a26d-163b291a748f)
+![image](https://github.com/user-attachments/assets/1fdc51a3-0c79-4021-a210-e4752f0cd027)
+![image](https://github.com/user-attachments/assets/35d36fe0-e356-4515-8561-02fc99f12ac2)
+![image](https://github.com/user-attachments/assets/4201553b-9a11-4d89-a2fe-d42f4cf40d25)
+![image](https://github.com/user-attachments/assets/a8830870-f81c-4738-b8d3-0a993ea72203)
+
+
